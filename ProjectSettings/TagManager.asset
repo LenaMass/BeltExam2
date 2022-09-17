@@ -3,12 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - bullet
+  - weapon
+  - plateform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - plateform
   - Water
   - UI
   - 
