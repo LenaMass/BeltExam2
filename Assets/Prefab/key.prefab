@@ -292,7 +292,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.17
+          value: 0.22555555
         - useVariable: 0
           name: 
           tooltip: 
